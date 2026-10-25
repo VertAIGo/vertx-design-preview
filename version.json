@@ -1,5 +1,6 @@
 {
-  "version": "0.7.6",
-  "sourceCommit": "6e78e82137584dd854d6bf58143fb197d3e838c8",
-  "builtAt": "2026-10-23T08:10:27.1743978Z"
+  "commit": "bf0f34f1767e42b2c12a1cecde2d783d8795ae9c",
+  "ui": "0.8.0",
+  "tokens": "0.1.0",
+  "siteDigest": "5fedda639a6a032bf3bbe148f63e48042beae2880ebe4663e73683279b3de79d"
 }
